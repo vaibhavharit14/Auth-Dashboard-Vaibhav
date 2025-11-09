@@ -1,8 +1,10 @@
 {
+ "homepage": "https://vaibhavharit14.github.io/auth-dashboard",
+
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vaibhavharit14.github.io/auth-dashboard",
+ 
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
     "@testing-library/dom": "^10.4.1",
